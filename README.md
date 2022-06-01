@@ -19,10 +19,10 @@ name, flight number, origin/destination airport and flight distance, as well as
 scheduled/actual departure and arrival times
 
 ## Data cleaning and manipulation
-data cleaning process susch as removal of NA values, removal NULL values, removal of duplicates values, coverting of each features to the appropriate data type was done in power query
-Modelling of the data was done in power pivot
-creating of new features required for further analysis was done in power pivot
-creating of new measures required for further analysis was done using DAX(data analysis expression)
+1.data cleaning process susch as removal of NA values, removal of NULL values, removal of duplicates values, coverting of each features to the appropriate data type were done in power query
+2.Modelling of the data were done in power pivot
+3.creating of new features required for further analysis were done in power pivot
+3.creating of new measures required for further analysis were done using DAX(data analysis expression)
 
 ## Analysis
 All the analysis and visualisation were done using pivot table and microsoft excel chart option
@@ -137,12 +137,11 @@ All the analysis and visualisation were done using pivot table and microsoft exc
 ## Conclusion
 The following can be concluded based on the observation made from the above analysis
 
-There is a consistent decline in the overall volume of flight over the month
-There is a variation in the overall volume of flight over the which shows airlines experience high demand at the beginning of a week and during the end of a week, while they experience low demand during the weekend
-There is a common trends between the overall flight volume and the delayed flight volume over time which shows that flight volume is major determinant of delayed flight
-Majority of flight cancelled by airline is due to the weather condition
-Hawaiian airline is the most reliable airline in terms of on-time departure with the average time of 1.5, while frontier airline is the least reliable with average time of 22.8
-Hawaiian airline is the most reliable airline in terms of on-time departure, with frontier airline being the the least
+1.There is a consistent decline in the overall volume of flight over the month
+2.There is a variation in the overall volume of flight over the which shows airlines experience high demand at the beginning of a week and during the end of a week, while they experience low demand during the weekend
+3.There is a common trends between the overall flight volume and the delayed flight volume over time which shows that flight volume is major determinant of delayed flight
+4.Majority of flight cancelled by airline is due to the weather condition
+5.Hawaiian airline is the most reliable airline in terms of on-time departure with the average time of 1.5, while frontier airline is the least reliable with average time of 22.8
 
 
 
