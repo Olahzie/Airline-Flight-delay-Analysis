@@ -25,7 +25,7 @@ creating of new features required for further analysis was done in power pivot
 creating of new measures required for further analysis was done using DAX(data analysis expression)
 
 ## Analysis
-all the analysis were done using pivot table
+All the analysis and visualisation were done using pivot table and microsoft excel chart option
 
 											
 											
@@ -135,11 +135,13 @@ all the analysis were done using pivot table
 
 
 ## Conclusion
-There is a consistent decline in the overall volume of flight over the month																					
-There is a variation in the overall volume of flight over the week which shows airlines experience high demand during the end and beginning of a week, and a low demands over the weekends																					
-																					
-There is a common trends between the total flight volume and delayed flight over time which shows that flight volume is major detrminant of delayed flight volume																					
-Majority of camcelled flight are due weather 																					
+The following can be concluded based on the observation made from the above analysis
+
+There is a consistent decline in the overall volume of flight over the month
+There is a variation in the overall volume of flight over the which shows airlines experience high demand at the beginning of a week and during the end of a week, while they experience low demand during the weekend
+There is a common trends between the overall flight volume and the delayed flight volume over time which shows that flight volume is major determinant of delayed flight
+Majority of flight cancelled by airline is due to the weather condition
+Hawaiian airline is the most reliable airline in terms of on-time departure with the average time of 1.5, while frontier airline is the least reliable with average time of 22.8
 Hawaiian airline is the most reliable airline in terms of on-time departure, with frontier airline being the the least
 
 
