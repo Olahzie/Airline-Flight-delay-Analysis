@@ -19,7 +19,7 @@ name, flight number, origin/destination airport and flight distance, as well as
 scheduled/actual departure and arrival times
 
 ## Data cleaning and manipulation
-1.data cleaning process susch as removal of NA values, removal of NULL values, removal of duplicates values, coverting of each features to the appropriate data type were done in power query
+1.**data cleaning process susch as removal of NA values, removal of NULL values, removal of duplicates values, coverting of each features to the appropriate data type were done in power query**
 2.Modelling of the data were done in power pivot
 3.creating of new features required for further analysis were done in power pivot
 3.creating of new measures required for further analysis were done using DAX(data analysis expression)
